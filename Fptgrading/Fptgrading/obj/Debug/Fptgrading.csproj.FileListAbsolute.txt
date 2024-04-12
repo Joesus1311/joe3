@@ -1,0 +1,13 @@
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.admincs.resources
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.Properties.Resources.resources
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.student.resources
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.Teacher.resources
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.csproj.GenerateResource.cache
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\bin\Debug\Fptgrading.exe.config
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\bin\Debug\Fptgrading.exe
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\bin\Debug\Fptgrading.pdb
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.exe
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.pdb
+C:\Users\quang\Downloads\dddd\Fptgrading\Fptgrading\obj\Debug\Fptgrading.Login.resources
